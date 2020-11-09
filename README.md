@@ -9,3 +9,17 @@ I'm doing a lot of automation.  It's my purpose in life!  If I have to do a task
 There's a lot of shell scripting, Python coding going on, on top of the common IaC toolset (Terraform; Puppet; Rundeck; GitHub; Jenkins; ...).<br>
 
 This is all coming after many years of full stack software development in mostly Java.<br>
+---
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="Jo Creyf's GitHub Stats" src="https://github-readme-stats.jcreyf.vercel.app/api?username=jcreyf&show_icons=true&hide_border=true" />
+</details>
+
+[website]: https://jocreyf.com
+[youtube]: https://youtube.com/jcreyf
