@@ -17,6 +17,7 @@ This is all coming after many years of full stack software development in mostly
 </details>
 
 <details>
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jcreyf&show_icons=true&hide_border=true" />
 </details>
