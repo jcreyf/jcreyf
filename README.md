@@ -18,7 +18,7 @@ This is all coming after many years of full stack software development in mostly
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Jo Creyf's GitHub Stats" src="https://github-readme-stats.jcreyf.vercel.app/api?username=jcreyf&show_icons=true&hide_border=true" />
+  <img align="left" alt="Jo Creyf's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jcreyf&show_icons=true&hide_border=true" />
 </details>
 
 [website]: https://jocreyf.com
