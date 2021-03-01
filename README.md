@@ -11,7 +11,7 @@ There's a lot of shell scripting, Python coding going on, on top of the common I
 
 This is all coming after many years of full stack software development in mostly Java and SQL.<br>
 
-<a href=''> <img width = '36px' align= 'left' src="../_documentation/resources/LinkedIN_icon.jpg" /> </a><br>
+<img src="_documentation/resources/LinkedIN_icon.jpg" alt="LinkedIN account" width='30'/>&nbsp;[Jo Creyf](https://www.linkedin.com/in/jocreyf/)<br>
 
 ---
 
