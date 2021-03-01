@@ -15,18 +15,18 @@ This is all coming after many years of full stack software development in mostly
 
 ---
 
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<summary>:zap: GitHub Stats</summary>
+<img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jcreyf&show_icons=true&hide_border=true"/>
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 </details>
 
-<details>
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jcreyf&show_icons=true&hide_border=true" />
-</details>
 
 [website]: https://jocreyf.com
 [youtube]: https://youtube.com/jcreyf
 [linkedin]: https://www.linkedin.com/in/jocreyf/
+[github]: https://github.com/jcreyf
