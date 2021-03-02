@@ -15,6 +15,7 @@ This is all coming after many years of full stack software development in mostly
 
 ---
 
+<!-- https://github.com/marketplace/actions/github-activity-readme -->
 <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
