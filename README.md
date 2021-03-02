@@ -19,11 +19,11 @@ This is all coming after many years of full stack software development in mostly
 <summary>:zap: GitHub Stats</summary>
 <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jcreyf&show_icons=true&hide_border=true"/>
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+---
+
+<summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-</details>
 
 
 [website]: https://jocreyf.com
