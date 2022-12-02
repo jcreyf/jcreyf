@@ -7,7 +7,7 @@ So I get to spend A LOT of time all over AWS in a DevOps role to design, create 
 "Infrastructure as Code" (IaC) is, and has been, my main work focus for the last 5 years.<br>
 
 I'm doing a lot of automation.  It's my purpose in life!  If I have to do a task multiple times, then I always look into simplifying it and automating as much as I can.<br>
-There's a lot of shell scripting, Python coding going on, on top of the common IaC toolset (Terraform; Puppet; Rundeck; GitHub; Jenkins; ...).<br>
+There's a lot of shell scripting, Python coding going on, on top of the common IaC toolset (Terraform; Puppet; Rundeck; GitHub; Jenkins; ...).  I'm also doing some Golang dev work.<br>
 
 This is all coming after many years of full stack software development in mostly Java and SQL.<br>
 
